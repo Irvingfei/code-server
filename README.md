@@ -21,7 +21,7 @@ The `src/` directory contains the files the package is built from:
 - `src/coder-code-server.lang` — 14 language sections
 - `src/coder-code-server.svg` — application icon
 
-Build toolchain: https://github.com/Irvingfei/tos-docker-apps
+Build toolchain: https://github.com/Irvingfei/docker-apps
 
 ## Install
 
