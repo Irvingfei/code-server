@@ -6,16 +6,27 @@ Run VS Code in the browser. Open folders on the NAS, use the terminal and extens
 
 ## Package
 
-- Application ID: `code-server`
+- Application ID: `coder-code-server`
 - Type: Docker (TOS 7)
 - Architecture: `x86_64`, `aarch64`
 - Upstream image: see `docker-compose.yml` in the downloaded asset
 - Web UI port: declared in `x-app-meta`
 
+## Source
+
+The `src/` directory contains the files the package is built from:
+
+- `src/config.x86_64.ini` / `src/config.aarch64.ini` — `config.ini` per architecture
+- `src/docker-compose.yml` — compose template; `@@...@@` placeholders are replaced at build time
+- `src/coder-code-server.lang` — 14 language sections
+- `src/coder-code-server.svg` — application icon
+
+Build toolchain: https://github.com/Irvingfei/tos-docker-apps
+
 ## Install
 
-1. In the TOS App Center, add this repository's application and submit the matching `code-server_<arch>.tar.gz` asset from the latest Release.
-2. Data is stored under `/Volume<N>/DockerAppData/code-server/` through the compose bind mounts.
+1. In the TOS App Center, add this repository's application and submit the matching `coder-code-server_<arch>.tar.gz` asset from the latest Release.
+2. Data is stored under `/Volume<N>/DockerAppData/coder-code-server/` through the compose bind mounts.
 
 ## Notes
 

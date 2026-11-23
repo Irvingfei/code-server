@@ -1,0 +1,97 @@
+[zh-cn]
+name = "code-server"
+auth = "TerraMaster 社区开发者"
+descript = "在浏览器中使用 VS Code 的远程开发环境。打开 NAS 上的目录进行编辑，使用终端与扩展，工作区与配置保存在应用数据目录。"
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "首次启动会自动生成随机登录密码，保存在容器内 /home/coder/.config/code-server/config.yaml；可在容器终端查看，登录后也可在设置中修改。"
+
+[zh-hk]
+name = "code-server"
+auth = "TerraMaster 社群開發者"
+descript = "在瀏覽器中使用 VS Code 的遠端開發環境。開啟 NAS 上的目錄進行編輯，使用終端與擴充功能，工作區與設定保存在應用資料目錄。"
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "首次啟動會自動產生隨機登入密碼，保存在容器內 /home/coder/.config/code-server/config.yaml；可在容器終端查看，登入後也可在設定中修改。"
+
+[en-us]
+name = "code-server"
+auth = "TerraMaster Community Developer"
+descript = "Run VS Code in the browser. Open folders on the NAS, use the terminal and extensions, with workspace and settings kept in the application data directory."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "A random login password is generated on first start and stored in /home/coder/.config/code-server/config.yaml inside the container; view it from the container terminal."
+
+[fr-fr]
+name = "code-server"
+auth = "Développeur communautaire TerraMaster"
+descript = "Run VS Code in the browser. Open folders on the NAS, use the terminal and extensions, with workspace and settings kept in the application data directory."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "A random login password is generated on first start and stored in /home/coder/.config/code-server/config.yaml inside the container; view it from the container terminal."
+
+[de-de]
+name = "code-server"
+auth = "TerraMaster Community-Entwickler"
+descript = "Run VS Code in the browser. Open folders on the NAS, use the terminal and extensions, with workspace and settings kept in the application data directory."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "A random login password is generated on first start and stored in /home/coder/.config/code-server/config.yaml inside the container; view it from the container terminal."
+
+[it-it]
+name = "code-server"
+auth = "Sviluppatore della community TerraMaster"
+descript = "Run VS Code in the browser. Open folders on the NAS, use the terminal and extensions, with workspace and settings kept in the application data directory."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "A random login password is generated on first start and stored in /home/coder/.config/code-server/config.yaml inside the container; view it from the container terminal."
+
+[es-es]
+name = "code-server"
+auth = "Desarrollador de la comunidad TerraMaster"
+descript = "Run VS Code in the browser. Open folders on the NAS, use the terminal and extensions, with workspace and settings kept in the application data directory."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "A random login password is generated on first start and stored in /home/coder/.config/code-server/config.yaml inside the container; view it from the container terminal."
+
+[hu-hu]
+name = "code-server"
+auth = "TerraMaster közösségi fejlesztő"
+descript = "Run VS Code in the browser. Open folders on the NAS, use the terminal and extensions, with workspace and settings kept in the application data directory."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "A random login password is generated on first start and stored in /home/coder/.config/code-server/config.yaml inside the container; view it from the container terminal."
+
+[ja-jp]
+name = "code-server"
+auth = "TerraMaster コミュニティ開発者"
+descript = "Run VS Code in the browser. Open folders on the NAS, use the terminal and extensions, with workspace and settings kept in the application data directory."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "A random login password is generated on first start and stored in /home/coder/.config/code-server/config.yaml inside the container; view it from the container terminal."
+
+[ko-kr]
+name = "code-server"
+auth = "TerraMaster 커뮤니티 개발자"
+descript = "Run VS Code in the browser. Open folders on the NAS, use the terminal and extensions, with workspace and settings kept in the application data directory."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "A random login password is generated on first start and stored in /home/coder/.config/code-server/config.yaml inside the container; view it from the container terminal."
+
+[pl-pl]
+name = "code-server"
+auth = "Społecznościowy deweloper TerraMaster"
+descript = "Run VS Code in the browser. Open folders on the NAS, use the terminal and extensions, with workspace and settings kept in the application data directory."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "A random login password is generated on first start and stored in /home/coder/.config/code-server/config.yaml inside the container; view it from the container terminal."
+
+[ru-ru]
+name = "code-server"
+auth = "Разработчик сообщества TerraMaster"
+descript = "Run VS Code in the browser. Open folders on the NAS, use the terminal and extensions, with workspace and settings kept in the application data directory."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "A random login password is generated on first start and stored in /home/coder/.config/code-server/config.yaml inside the container; view it from the container terminal."
+
+[tr-tr]
+name = "code-server"
+auth = "TerraMaster topluluk geliştiricisi"
+descript = "Run VS Code in the browser. Open folders on the NAS, use the terminal and extensions, with workspace and settings kept in the application data directory."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "A random login password is generated on first start and stored in /home/coder/.config/code-server/config.yaml inside the container; view it from the container terminal."
+
+[pt-pt]
+name = "code-server"
+auth = "Programador da comunidade TerraMaster"
+descript = "Run VS Code in the browser. Open folders on the NAS, use the terminal and extensions, with workspace and settings kept in the application data directory."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image codercom/code-server, running as user 1000."
+important = "A random login password is generated on first start and stored in /home/coder/.config/code-server/config.yaml inside the container; view it from the container terminal."
